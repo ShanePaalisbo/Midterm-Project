@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header
+{
+    background: gray;
+}
+.navbar
+{
+    padding-top: 20px !important;
+}
+.nav-item
+{
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+.nav-link
+{
+    color: #fff !important;
+    font-size: 12px;
+    padding: 0 0 5px 0;
+    display: unset;
+}
+.navbar-brand img
+{
+    width: 125px;
+}
+.navbar-toggler
+{
+    border: 0 !important;
+    outline: none !important;
+    padding: initial !important;
+}
+.active-gallery
+{
+    border-bottom: 2px solid white;
+}
+.nav-link:hover
+{
+    border-bottom: 2px solid white;
+}
